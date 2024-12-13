@@ -2,3 +2,6 @@ This is my first file, added to main.
 
 This is my first change in main and therefore my second commit
 
+You could see this coming: a change in the sidebranch.
+
+And this change was also part of the sidebranch.
